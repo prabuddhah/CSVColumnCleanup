@@ -21,7 +21,7 @@ This Python script is designed to process a CSV file containing network traffic 
     - In the script, modify the input_file and output_file paths to point to your source and desired output CSV files, respectively.
 5) Run the Script:
     - Execute the script by running the following command in the terminal:
-        python process_csv.py
+        python cleanup.py
     - This will initiate the process of reading the input CSV file, selecting the desired columns, and saving the updated data to the output CSV file.
 6) Monitor Progress:
     - The script will display progress updates in the terminal as it performs each step of the data processing. This helps you keep track of the current execution status.
