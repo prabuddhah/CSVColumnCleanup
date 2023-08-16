@@ -6,7 +6,7 @@ This Python script is designed to process a CSV file containing network traffic 
 - Provides progress updates during script execution.
 - Utilizes the pandas library for efficient data processing.
 - Configurable input and output file paths.
-- Easily customizable to suit your specific requirements
+- Easily customizable to suit your specific requirements.
 
 # Usage:
 1) Prerequisites. 
